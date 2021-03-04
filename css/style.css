@@ -68,3 +68,9 @@ li {
   margin-left: auto;
   margin-right: auto;
 }
+.list {
+  font-family: futura-pt, sans-serif;
+  font-weight: 600;
+  font-style: normal;
+  font-size: large;
+}
