@@ -43,7 +43,7 @@ nav:hover{
     text-decoration: none;
     font-style: normal;
 }
-li {
+.navlist {
     display: inline;
 }
 .desert1 {
