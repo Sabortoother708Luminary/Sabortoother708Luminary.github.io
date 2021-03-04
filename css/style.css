@@ -73,4 +73,6 @@ nav:hover{
   font-weight: 600;
   font-style: normal;
   font-size: large;
+  position:relative; left:520px;
+  margin: 2px;
 }
