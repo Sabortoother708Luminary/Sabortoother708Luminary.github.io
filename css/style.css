@@ -84,3 +84,8 @@ nav:hover{
   margin: 2px;
   font-size: normal;
 }
+.Map{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
