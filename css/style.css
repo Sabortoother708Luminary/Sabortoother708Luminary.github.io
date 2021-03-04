@@ -64,8 +64,7 @@ li {
     margin-left: 2.5em;
 }
 .pillars{
-  border: 1px solid #ddd;
-  border-radius: 4px;
-  position:relative; left:540px;
-  filter: blur(1px)
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
