@@ -23,7 +23,7 @@
     font-size: large;
 }
 nav {
-    font-family: shackleton,serif;
+    font-family: futura-pt,serif;
     font-weight: 400;
     font-style: normal;
     margin: 0;
@@ -40,7 +40,7 @@ nav:link {
 }
 nav:hover{
     color: aqua;
-    text-decoration: underline;
+    text-decoration: none;
     font-style: normal;
 }
 li {
